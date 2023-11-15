@@ -8,7 +8,7 @@ Welcome to the Random Quotes App! This Android application fetches 10 random quo
 
 - Fetches 10 random quotes from a free API.
 - Clean and user-friendly interface.
-- Easy-to-use with a single button for fetching new quotes.
+- Easy-to-use with swipe refresh feature for fetching new quotes.
 
 
 
