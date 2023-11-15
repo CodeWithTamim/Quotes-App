@@ -10,9 +10,5 @@ Welcome to the Random Quotes App! This Android application fetches 10 random quo
 - Clean and user-friendly interface.
 - Easy-to-use with a single button for fetching new quotes.
 
-## Screenshots
 
-![App Screenshot 1](/Quotes-App/ss1.png)
-![App Screenshot 2](/ss2.png)
- 
 
