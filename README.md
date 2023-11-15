@@ -12,7 +12,7 @@ Welcome to the Random Quotes App! This Android application fetches 10 random quo
 
 ## Screenshots
 
-![App Screenshot 1](/screenshots/screenshot1.png)
-![App Screenshot 2](/screenshots/screenshot2.png)
+![App Screenshot 1](/ss1.png)
+![App Screenshot 2](/ss2.png)
  
 
